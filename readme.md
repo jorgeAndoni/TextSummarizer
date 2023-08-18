@@ -23,7 +23,7 @@ The methodology is divided into four stages: In the first stage, Text Conversion
 
 
 ## Main results
-aaa
+![aaa](results_noun_tfidfB.png)
 
 ## References
 [Extractive multi-document summarization using multilayer networks](https://www.sciencedirect.com/science/article/abs/pii/S0378437118303212). JV Tohalino, DR Amancio. Physica A: Statistical Mechanics and its Applications 503, 526-539
