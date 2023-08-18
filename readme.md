@@ -23,7 +23,9 @@ The methodology is divided into four stages: In the first stage, Text Conversion
 
 
 ## Main results
-![aaa](results_noun_tfidfB.png)
+Comparison analysis of the performance of the network measurements for both noun and Tf-Idf based networks. For each subplot, the measurements were ranked according to their ROUGE-1 score.
+
+![Main results](results_noun_tfidfB.png)
 
 ## References
 [Extractive multi-document summarization using multilayer networks](https://www.sciencedirect.com/science/article/abs/pii/S0378437118303212). JV Tohalino, DR Amancio. Physica A: Statistical Mechanics and its Applications 503, 526-539
