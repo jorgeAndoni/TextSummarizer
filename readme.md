@@ -17,7 +17,10 @@ Description | TeMário  | CSTNews | DUC 2002 |
 
 
 ## Methodology
-aaa
+
+
+![Automatic Summarization Architecture](as_arquitecture.png)
+
 
 ## Main results
 aaa
