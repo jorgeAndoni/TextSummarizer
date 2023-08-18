@@ -17,7 +17,7 @@ Description | TeMário  | CSTNews | DUC 2002 |
 
 
 ## Methodology
-
+The methodology is divided into four stages: In the first stage, Text Conversion, the documents are conveniently pre-processed with the aim of modeling each document as a network. In the second stage, Network Creation, a network is created for each pre-processed document from datasets. I proposed the creation of different network models, where each node represents a sentence and the connection between two sentences is established in several ways. In the Sentence Ranking stage, it is employed a set of complex network measurements with the aim of giving a value of importance (relevance weight) to each network node; in this way, the nodes could be ranked. In the last stage, Summarization, the best-ranked sentences (nodes) are selected to belong to the final summary. The architecture of the Automatic Summarization System is shown as follows:
 
 ![Automatic Summarization Architecture](as_arquitecture.png)
 
