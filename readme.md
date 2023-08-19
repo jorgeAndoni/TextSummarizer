@@ -1,5 +1,5 @@
 # Text Summarizer
-Text summarizer for English and Portuguese documents based on complex networks 
+The purpose of this work is to use complex networks concepts for extractive document summarization for both Single Document Summarization (SDS) and Multi-Document Summarization (MDS) of English and Portuguese texts. In this work, the documents are modeled as networks, where sentences are represented as nodes with the aim of extracting the most relevant sentences through the use of ranking algorithms. The edges between nodes are established in different ways.
 
 ## Datasets
 - _TeMário_: This corpus includes a set of 100 Portuguese news texts with their respective summaries. The documents were extracted from the newspapers _Folha de São Paulo_ and _Jornal do Brasil_. 
