@@ -23,7 +23,7 @@ The methodology is divided into four stages: In the first stage, Text Conversion
 
 
 ## Main results
-Comparison analysis of the performance of the network measurements for both noun and Tf-Idf based networks. For each subplot, the measurements were ranked according to their ROUGE-1 score.
+Our systems were evaluated by using the ROUGE-1 metric, which compares the generated summaries and the human-generated summaries from datasets. In the following figures, I show a comparison analysis of the performance of the network measurements for document summarization. For each subplot, the measurements were ranked according to their ROUGE-1 score.
 
 ![Main results](results_noun_tfidfB.png)
 
